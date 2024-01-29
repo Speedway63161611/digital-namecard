@@ -7,7 +7,7 @@ ORG:Speedway Motor;
 TITLE:Operations Executive
 EMAIL;type=INTERNET;type=WORK;type=pref:kh.yeo@speedwaymotor.com.sg
 TEL;type=WORK;type=VOICE:+65 6316 1611
-item1.ADR;type=WORK;type=pref:;;36 Toh Guan Road East \nEnterprise Hub\, 01-32;;;608580;Singapore
+item1.ADR;type=WORK;type=pref:;;36 Toh Guan Road East\nEnterprise Hub\, 01-32;;;608580;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.facebook.com/p/Speedway-Motor-Singapore-100064329473874/
 item2.X-ABLabel:_$!<HomePage>!$_
